@@ -4,13 +4,77 @@ repo: upptime
 sites:
   - name: Hauptseite
     url: https://ics.tools
-  - name: ics Viewer
+  - name: Viewer
     url: https://viewer.ics.tools
+  - name: Baden-Württemberg Feiertag
+    url: https://ics.tools/Feiertage/baden-w%C3%BCrttemberg.ics
+  - name: Bayern Feiertag
+    url: https://ics.tools/Feiertage/bayern.ics
+  - name: Berlin Feiertag
+    url: https://ics.tools/Feiertage/berlin.ics
+  - name: Brandenburg Feiertag
+    url: https://ics.tools/Feiertage/brandenburg.ics
+  - name: Bremen Feiertag
+    url: https://ics.tools/Feiertage/bremen.ics
+  - name: Hamburg Feiertag
+    url: https://ics.tools/Feiertage/hamburg.ics
+  - name: Hessen Feiertag
+    url: https://ics.tools/Feiertage/hessen.ics
+  - name: Mecklenburg-Vorpommern Feiertag
+    url: https://ics.tools/Feiertage/mecklenburg-vorpommern.ics
+  - name: Niedersachsen Feiertag
+    url: https://ics.tools/Feiertage/niedersachsen.ics
+  - name: Nordrhein-Westfalen Feiertag
+    url: https://ics.tools/Feiertage/nordrhein-westfalen.ics
+  - name: Rheinland-Pfalz Feiertag
+    url: https://ics.tools/Feiertage/rheinland-pfalz.ics
+  - name: Saarland Feiertag
+    url: https://ics.tools/Feiertage/saarland.ics
+  - name: Sachsen-Anhalt Feiertag
+    url: https://ics.tools/Feiertage/sachsen-anhalt.ics
+  - name: Sachsen Feiertag
+    url: https://ics.tools/Feiertage/sachsen.ics
+  - name: Schleswig-Holstein Feiertag
+    url: https://ics.tools/Feiertage/schleswig-holstein.ics
+  - name: Thüringen Feiertag
+    url: https://ics.tools/Feiertage/th%C3%BCringen.ics
+  - name: Baden-Württemberg Ferien
+    url: https://ics.tools/Ferien/baden-w%C3%BCrttemberg.ics
+  - name: Bayern Ferien
+    url: https://ics.tools/Ferien/bayern.ics
+  - name: Berlin Ferien
+    url: https://ics.tools/Ferien/berlin.ics
+  - name: Brandenburg Ferien
+    url: https://ics.tools/Ferien/brandenburg.ics
+  - name: Bremen Ferien
+    url: https://ics.tools/Ferien/bremen.ics
+  - name: Hamburg Ferien
+    url: https://ics.tools/Ferien/hamburg.ics
+  - name: Hessen Ferien
+    url: https://ics.tools/Ferien/hessen.ics
+  - name: Mecklenburg-Vorpommern Ferien
+    url: https://ics.tools/Ferien/mecklenburg-vorpommern.ics
+  - name: Niedersachsen Ferien
+    url: https://ics.tools/Ferien/niedersachsen.ics
+  - name: Nordrhein-Westfalen Ferien
+    url: https://ics.tools/Ferien/nordrhein-westfalen.ics
+  - name: Rheinland-Pfalz Ferien
+    url: https://ics.tools/Ferien/rheinland-pfalz.ics
+  - name: Saarland Ferien
+    url: https://ics.tools/Ferien/saarland.ics
+  - name: Sachsen-Anhalt Ferien
+    url: https://ics.tools/Ferien/sachsen-anhalt.ics
+  - name: Sachsen Ferien
+    url: https://ics.tools/Ferien/sachsen.ics
+  - name: Schleswig-Holstein Ferien
+    url: https://ics.tools/Ferien/schleswig-holstein.ics
+  - name: Thüringen Ferien
+    url: https://ics.tools/Ferien/th%C3%BCringen.ics
 
 status-website:
   cname: status.ics.tools
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: ics.tools Upptime
   introTitle: "**Upptime** überprüft die Verfügbarkeit der Webseite."
   introMessage: Uptime überprüft in regelmäßigen Abständen die Verfügbarkeit der unterschiedlichen Webseiten und ics-Dateien.
   navbar:
@@ -21,5 +85,5 @@ status-website:
     - title: GitHub - Status
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  uptime: "*/15 * * * *"
