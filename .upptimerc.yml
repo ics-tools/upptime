@@ -4,17 +4,21 @@ repo: upptime
 sites:
   - name: Hauptseite
     url: https://ics.tools
+  - name: ics Viewer
+    url: https://viewer.ics.tools
 
 status-website:
   cname: status.ics.tools
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Upptime** überprüft die Verfügbarkeit der Webseite."
+  introMessage: Uptime überprüft in regelmäßigen Abständen die Verfügbarkeit der unterschiedlichen Webseiten und ics-Dateien.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
+    - title: ics.tools
+      href: https://ics.tools
+    - title: GitHub - Status
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
