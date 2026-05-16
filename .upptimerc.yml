@@ -6,6 +6,8 @@ sites:
     url: https://ics.tools
   - name: Viewer
     url: https://viewer.ics.tools
+  - name: Alle Feiertage
+    url: https://ics.tools/Feiertage/alle.ics
   - name: Baden-Württemberg Feiertag
     url: https://ics.tools/Feiertage/baden-w%C3%BCrttemberg.ics
   - name: Bayern Feiertag
@@ -16,6 +18,8 @@ sites:
     url: https://ics.tools/Feiertage/brandenburg.ics
   - name: Bremen Feiertag
     url: https://ics.tools/Feiertage/bremen.ics
+  - name: Bundesweite Feiertag
+    url: https://ics.tools/Feiertage/bundesweit.ics
   - name: Hamburg Feiertag
     url: https://ics.tools/Feiertage/hamburg.ics
   - name: Hessen Feiertag
