@@ -74,6 +74,8 @@ sites:
     url: https://ics.tools/Ferien/schleswig-holstein.ics
   - name: Thüringen Ferien
     url: https://ics.tools/Ferien/th%C3%BCringen.ics
+  - name: Kalenderwochen
+    url: https://ics.tools/extra/kalenderwochen.ics
 
 status-website:
   cname: status.ics.tools
