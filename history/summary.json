@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 225,
-    "timeDay": 131,
-    "timeWeek": 248,
-    "timeMonth": 225,
+    "timeDay": 103,
+    "timeWeek": 226,
+    "timeMonth": 220,
     "timeYear": 226,
     "dailyMinutesDown": {}
   },
@@ -367,19 +367,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ics.tools.ico",
     "slug": "alle-ferien",
     "status": "up",
-    "uptime": "10.54%",
-    "uptimeDay": "10.54%",
-    "uptimeWeek": "10.54%",
-    "uptimeMonth": "10.54%",
-    "uptimeYear": "10.54%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 29,
     "timeDay": 29,
     "timeWeek": 29,
     "timeMonth": 29,
     "timeYear": 29,
-    "dailyMinutesDown": {
-      "2026-07-26": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Baden-Württemberg Ferien",
