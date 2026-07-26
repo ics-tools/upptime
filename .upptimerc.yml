@@ -42,6 +42,8 @@ sites:
     url: https://ics.tools/Feiertage/schleswig-holstein.ics
   - name: Thüringen Feiertag
     url: https://ics.tools/Feiertage/th%C3%BCringen.ics
+  - name: Alle Ferien
+    url: https://ics.tools/Ferien/alle.ics
   - name: Baden-Württemberg Ferien
     url: https://ics.tools/Ferien/baden-w%C3%BCrttemberg.ics
   - name: Bayern Ferien
