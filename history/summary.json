@@ -367,18 +367,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ics.tools.ico",
     "slug": "alle-ferien",
     "status": "down",
-    "uptime": "16.71%",
-    "uptimeDay": "16.71%",
-    "uptimeWeek": "16.71%",
-    "uptimeMonth": "16.71%",
-    "uptimeYear": "16.71%",
+    "uptime": "7.38%",
+    "uptimeDay": "7.38%",
+    "uptimeWeek": "7.38%",
+    "uptimeMonth": "7.38%",
+    "uptimeYear": "7.38%",
     "time": 25,
     "timeDay": 25,
     "timeWeek": 25,
     "timeMonth": 25,
     "timeYear": 25,
     "dailyMinutesDown": {
-      "2026-07-26": 1
+      "2026-07-26": 2
     }
   },
   {
